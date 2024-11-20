@@ -2,6 +2,15 @@
 using namespace std;
 #include<vector>
 #include<queue>
+void dfs(vector<vector<int>>& adj,vector<bool>& visited,int s){
+    visited[s]=true;
+    cout<<s<<" ";
+    for(int x:adj[s]){
+        if(!visited[x]){
+            dfs(adj,visited,x);
+        }
+    }
+}
 void bfs(vector<vector<int>>& adj,int s){
     queue<int> q;
     vector<bool> visited(adj.size(),false);
@@ -26,6 +35,7 @@ void addedge(vector<vector<int>>& adj,int u,int v){
 int main(){
     int n;
     cin>>n;
+    vector<bool> table(n,false);
     vector<vector<int>> adj(n);
     addedge(adj,0,1);
     addedge(adj,0,2);
@@ -34,4 +44,6 @@ int main(){
     addedge(adj,2,4);
     cout<<"Breadth first search: ";
     bfs(adj,0);
+    cout<<"\n Depth first search: ";
+    dfs(adj,table,0);
 }
