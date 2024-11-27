@@ -16,6 +16,7 @@ bool higherprecedence(char a,char b){
 }
 string itp(string str){
     stack<char> st;
+    reverse(str.begin(),str.end());
     string temp="";
     for(int i=0;i<str.length();i++){
         if(isoperator(str[i])){
@@ -35,11 +36,12 @@ string itp(string str){
         temp+=st.top();
         st.pop();
     }
+    reverse(temp.begin(),temp.end());
     return temp;
 }
 int main(){
     string str="A*B+C/D";
     cout<<"Infix: "<<str<<endl;
     str=itp(str);
-    cout<<"postfix: "<<str;
+    cout<<"prefix: "<<str;
 }
