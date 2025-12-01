@@ -313,3 +313,30 @@ For questions, suggestions, or discussions:
 Happy Coding! 🚀
 
 "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
+
+---
+
+## 💼 About Me
+
+I'm a passionate developer and student leader exploring the intersection of **Data Science**, **Machine Learning**, and **Full-Stack Web Development**. 
+
+This repository reflects my commitment to:
+- **Mastering core CS fundamentals** - A strong foundation in DSA and algorithms is essential for scalable software engineering
+- **Technical excellence** - Writing clean, well-documented, and efficient code
+- **Knowledge sharing** - Helping other students and aspiring developers learn through practical implementations
+
+### 🔗 Connect with Me
+
+- **LinkedIn**: [Prannessh2006](https://linkedin.com/in/prannessh2006) - Let's connect and discuss tech, AI, and entrepreneurship
+- **GitHub**: [@Prannessh2006](https://github.com/Prannessh2006) - Explore my other projects in ML, data science, and full-stack development
+- **Email**: prannessh@example.com - Feel free to reach out for collaborations
+
+### 📌 My Other Projects
+
+- **Data Science & Analytics**: Interactive dashboards and customer segmentation analysis
+- **AI & ML Initiatives**: Exploring RAG applications and LLM fine-tuning
+- **Full-Stack Development**: Building scalable web applications with modern tech stacks
+
+---
+
+**"Excellence is not a destination; it's a continuous journey of learning and growth."**
