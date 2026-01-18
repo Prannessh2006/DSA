@@ -1,0 +1,16 @@
+n = int(input("Enter the value of n: "))
+
+
+#linear way
+fib[0]=0
+fib[1]=1
+for i in range(2,n+1):
+  fib[i]=fib[i-1]+fib[i-2]
+print(fib[n))
+
+#dp way via recursion
+def fib(n):
+  if n<=1:
+    return n
+  return fib(n-1)+fib(n-2)
+print(fib(n))
