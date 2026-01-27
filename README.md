@@ -327,9 +327,9 @@ This repository reflects my commitment to:
 
 ### 🔗 Connect with Me
 
-- **LinkedIn**: [Prannessh2006](https://linkedin.com/in/prannessh2006) - Let's connect and discuss tech, AI, and entrepreneurship
+- **LinkedIn**: [Prannessh2006](https://linkedin.com/in/prannesshkva) - Let's connect and discuss tech, AI, and entrepreneurship
 - **GitHub**: [@Prannessh2006](https://github.com/Prannessh2006) - Explore my other projects in ML, data science, and full-stack development
-- **Email**: prannessh@example.com - Feel free to reach out for collaborations
+- **Email**: praneshkva39@gmail.com - Feel free to reach out for collaborations
 
 ### 📌 My Other Projects
 
